@@ -1,4 +1,5 @@
-# EEG_Visualization
+# EEG Visualization
+# Brain Activities in various bands
 Python code to visualise EEG in different ways
 Using matplotlib and mne library
 Code will be updated soon...

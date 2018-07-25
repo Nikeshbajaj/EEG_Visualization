@@ -22,7 +22,7 @@ Python code to visualise EEG in different ways
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Nikeshbajaj/EEG_Visualization/master/Figures/EEGViz_Beta.gif" width="1300"/>
+<img src="https://raw.githubusercontent.com/Nikeshbajaj/EEG_Visualization/master/Figures/EEGViz_Beta2.gif" width="1300"/>
 </p>
 
 <p align="center">

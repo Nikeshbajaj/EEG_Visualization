@@ -22,3 +22,16 @@ Code will be updated soon...
   <img src="https://raw.githubusercontent.com/Nikeshbajaj/EEG_Visualization/master/Figures/EEGViz_Alpha3.gif" width="420"/> <img src="https://raw.githubusercontent.com/Nikeshbajaj/EEG_Visualization/master/Figures/EEGViz_Beta1.gif" width="420"/>
 <img src="https://raw.githubusercontent.com/Nikeshbajaj/EEG_Visualization/master/Figures/EEGViz_Gamma1.gif" width="420"/>
 </p>
+
+
+# Tunable Algorithm
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Nikeshbajaj/EEG_Visualization/master/Beta.gif" width="800"/>
+</p>
+
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Nikeshbajaj/EEG_Visualization/master/IPR.gif" width="800"/>
+</p>
+
